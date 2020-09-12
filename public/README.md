@@ -39,13 +39,13 @@ I actually will probably go back and spend a lot longer but I hit the basic requ
 ```
 Number and name of feature: Feature 2 Modify Contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hr
 
-Start time: _____
+Start time: 3:37
 
-Finish time: _____
+Finish time: 5:04
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1hr 27min
 ```
 
 Add this information to your README.
