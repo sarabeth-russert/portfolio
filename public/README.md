@@ -37,11 +37,12 @@ I actually will probably go back and spend a lot longer but I hit the basic requ
 ```
 
 ```
-Number and name of feature: Feature 2 Modify Contents
+Number and name of feature: Feature 2 Modify Contents part 1
+Description: just modifying the text content of the html
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 3:37
 
 Finish time: _____
 
