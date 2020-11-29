@@ -38,3 +38,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+		new banner image
+		https://unsplash.com/photos/s4wGZw3UuLk
